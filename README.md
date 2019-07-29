@@ -4,7 +4,7 @@
 申请提交的格式为:
 [学校-专业-姓名-是否拥有个人博客-感兴趣的编程方面的东西]
 
-# :bow:捕捉到我们
+# :bow:二捕捉到我们
 :wind_chime:官方博客:<a href="http://debug.sqdxwz.com">http://debug.sqdxwz.com</a>
 </br>
 :file_folder:官方磁盘空间:<a href="http://debug.ys168.com/">http://debug.ys168.com/</a>
