@@ -4,7 +4,7 @@
 申请提交的格式为:
 [学校-专业-姓名-是否拥有个人博客-感兴趣的编程方面的东西]
 </br>
-我们希望每个人都可以拥有一个自己博客,为此我们基于hexo+github的建站经历,</br>
+:gift:我们希望每个人都可以拥有一个自己博客,为此我们基于hexo+github的建站经历,</br>
 为有意向建站的朋友出了一份教程,你可以查看:<a href="https://github.com/debug-code-healer/About/blob/master/Hexo%2BGithub%E5%BB%BA%E7%AB%99.md">hexo+github建站</a>
 
 # :bow:二捕捉到我们
