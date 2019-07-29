@@ -5,7 +5,7 @@
 [学校-专业-姓名-是否拥有个人博客-感兴趣的编程方面的东西]
 
 # :book:二库别说明
-## :package:Artificial-intelligence-algorithm
+## :package:1.Artificial-intelligence-algorithm
 :thought_balloon:人工智能相关算法的学习内容,适用于基础小白入门,内容=基础知识+代码,如果需要,请前往此库:
 <a href="https://github.com/debug-code-healer/Artificial-intelligence-algorithm">Artificial-intelligence-algorithm</a>
 
